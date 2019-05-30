@@ -1,2 +1,13 @@
 #coding= utf-8
-print ('你好')
+#Version: 0.0.2
+#Author: xyz
+
+a = 321
+b = 321
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a // b)
+print(a % b)
+print(a ** b)
