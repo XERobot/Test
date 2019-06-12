@@ -1,3 +1,12 @@
+#coding= utf-8
+
+'''
+@name:xxx
+@author:xxx
+@email:xxx@xxx.com
+@version:0.0.1
+'''
+
 import turtle
 #初始化笔大小
 turtle.pensize(1)

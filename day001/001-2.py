@@ -1,7 +1,10 @@
 #coding:utf-8
 
-#version: 0.0.1
-#Author: xyz
+#name:xxx
+#author:xxx
+#email:xxx@xxx.com
+#version:0.0.1
+
 
 print('hello,world!')
 print('你好','世界！')
