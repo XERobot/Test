@@ -9,5 +9,5 @@ import math
 r=float(input('请输入圆半径：'))
 l=2*math.pi*r
 s=math.pi*r*r
-print('周长：%.3f' % l+'\n'+'面积: %.3f' % s)
+print('周长：%.2f' % l+'\n'+'面积: %.2f' % s)
 
