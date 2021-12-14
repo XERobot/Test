@@ -1,4 +1,5 @@
 #coding= utf-8
+#输出类型要统一，连接字符串+，要么就是，分隔，当变量输出
 import math
 
 a = float(input("请输入："))
@@ -21,3 +22,4 @@ else:
         print("-1+",b)  
     else:
         print(" 1+",b)
+
